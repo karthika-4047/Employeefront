@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Employeefront/static/css/main.e6c13ad2.css",
+    "main.js": "/Employeefront/static/js/main.67726d64.js",
+    "static/js/453.ac866f70.chunk.js": "/Employeefront/static/js/453.ac866f70.chunk.js",
+    "static/media/Empl.png": "/Employeefront/static/media/Empl.09d1efb8f2783a74ed4e.png",
+    "index.html": "/Employeefront/index.html",
+    "main.e6c13ad2.css.map": "/Employeefront/static/css/main.e6c13ad2.css.map",
+    "main.67726d64.js.map": "/Employeefront/static/js/main.67726d64.js.map",
+    "453.ac866f70.chunk.js.map": "/Employeefront/static/js/453.ac866f70.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.67726d64.js"
+  ]
+}
